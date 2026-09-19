@@ -1,0 +1,21 @@
+{
+    "Server": "ddos-guard",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=60",
+    "Set-Cookie": "__ddg9_=20.119.78.153; Domain=.hh.ru; Path=/; Expires=Sat, 19-Sep-2026 12:07:56 GMT",
+    "Date": "Sat, 19 Sep 2026 11:47:56 GMT",
+    "Content-Type": "application/json; charset=UTF-8",
+    "Content-Length": "241",
+    "X-Request-Id": "178981847642857d4fa18734e72f3000",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Expose-Headers": "Location, ETag, Date, Expires, Cache-Control, Content-Type, X-Request-ID",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Server-Timing": "frontik;desc=\"frontik execution time\";dur=0.011771917343139648",
+    "X-Request-ID": "178981847642857d4fa18734e72f3000",
+    "Report-To": "{\"group\":\"csp-endpoint\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/nel.hhdev.ru\\/report\\/api\"}]}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"nel\",\"max_age\":3600}",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff"
+}

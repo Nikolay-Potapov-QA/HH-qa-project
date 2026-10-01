@@ -1,1 +1,0 @@
-{"errors":[{"type":"method_not_allowed"}],"request_id":"17906895112700b706ad901cfe78b006"}

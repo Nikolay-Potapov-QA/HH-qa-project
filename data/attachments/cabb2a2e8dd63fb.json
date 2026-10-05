@@ -1,0 +1,20 @@
+{
+    "Server": "Angie",
+    "Date": "Mon, 05 Oct 2026 15:34:20 GMT",
+    "Content-Type": "application/json; charset=UTF-8",
+    "Content-Length": "107",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=60",
+    "X-Request-Id": "179121446002920f6a07632bad164001",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Expose-Headers": "Location, ETag, Date, Expires, Cache-Control, Content-Type, X-Request-ID",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Server-Timing": "frontik;desc=\"frontik execution time\";dur=0.027947664260864258",
+    "X-Request-ID": "179121446002920f6a07632bad164001",
+    "Report-To": "{\"group\":\"csp-endpoint\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/nel.hhdev.ru\\/report\\/api\"}]}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"nel\",\"max_age\":3600}",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff"
+}

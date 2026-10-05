@@ -1,0 +1,23 @@
+{
+    "Server": "Angie",
+    "Date": "Mon, 05 Oct 2026 15:34:17 GMT",
+    "Content-Type": "application/json; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=60",
+    "Vary": "Accept-Encoding",
+    "X-Request-Id": "17912144571205e2ea3bb5f2f52d5001",
+    "Cache-Control": "max-age=1200",
+    "Expires": "Mon, 05 Oct 2026 15:54:17 GMT",
+    "Etag": "W/\"9e6e17ecacc3b74ce857cb1952b5d0f89666a1ff\"",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Expose-Headers": "Location, ETag, Date, Expires, Cache-Control, Content-Type, X-Request-ID",
+    "Server-Timing": "frontik;desc=\"frontik execution time\";dur=0.45894432067871094",
+    "X-Request-ID": "17912144571205e2ea3bb5f2f52d5001",
+    "Report-To": "{\"group\":\"csp-endpoint\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/nel.hhdev.ru\\/report\\/api\"}]}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"nel\",\"max_age\":3600}",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Content-Encoding": "gzip"
+}

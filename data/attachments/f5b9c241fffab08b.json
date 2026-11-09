@@ -1,0 +1,18 @@
+{
+    "Date": "Mon, 09 Nov 2026 17:11:21 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "302",
+    "Connection": "keep-alive",
+    "x-srv-trace": "v=1;t=5d44a22af73b10d5",
+    "x-srv-span": "v=1;s=55c2809c5a6d4b32",
+    "access-control-allow-origin": "*",
+    "x-ratelimit-limit": "120",
+    "x-ratelimit-remaining": "118",
+    "x-ratelimit-reset": "1794244340",
+    "etag": "W/\"12e-TMvMysmH6Vj1YFB9VRkbOSVKmuE\"",
+    "vary": "Accept-Encoding",
+    "set-cookie": "__cf_bm=D4cG6Idqlj0xrgPLU3jyCH02Fchtp59izTXiO5Mgq00-1794244281.270927-1.0.1.1-aF2o3bFPRmueWD9EiNZbfgCk85Du794.hTWfM3Ay32IeCMyKT21m8fSXO_N3hCH7yy1c1Cuprsa4qUi5AAAlhbIC6n1Ql_KP_9mNU62brgsmU6jxuDgXFlkmikff2h97; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=pstmn.io; Expires=Mon, 09 Nov 2026 17:41:21 GMT",
+    "cf-cache-status": "DYNAMIC",
+    "Server": "cloudflare",
+    "CF-RAY": "a57e6fa5ed20dc73-SEA"
+}
